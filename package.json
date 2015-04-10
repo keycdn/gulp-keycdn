@@ -1,0 +1,28 @@
+{
+  "name": "gulp-keycdn",
+  "version": "0.0.1",
+  "description": "Gulp plugin for interacting with the KeyCDN API",
+  "keywords": [
+    "gulpplugin",
+    "cdn",
+    "keycdn"
+  ],
+  "homepage": "https://github.com/keycdn/gulp-keycdn",
+  "author": "KeyCDN <support@keycdn.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/keycdn/gulp-keycdn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/keycdn/gulp-keycdn/issues"
+  },
+  "license": "MIT",
+  "scripts": {},
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  },
+  "dependencies": {
+    "gulp-util": "~2.2.0",
+    "keycdn": "~0.1.1"
+  }
+}
