@@ -40,3 +40,6 @@ gulp.task('purgeURL', function() {
     keycdn(options, files);
 });
 ~~~
+
+
+For more details visit https://www.keycdn.com

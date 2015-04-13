@@ -1,13 +1,13 @@
 {
   "name": "gulp-keycdn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gulp plugin for interacting with the KeyCDN API",
   "keywords": [
     "gulpplugin",
     "cdn",
     "keycdn"
   ],
-  "homepage": "https://github.com/keycdn/gulp-keycdn",
+  "homepage": "https://www.keycdn.com",
   "author": "KeyCDN <support@keycdn.com>",
   "repository": {
     "type": "git",
