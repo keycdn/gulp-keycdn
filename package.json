@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "gulp-util": "~2.2.0",
-    "keycdn": "~0.1.2"
+    "keycdn": "~0.2.0"
   }
 }
